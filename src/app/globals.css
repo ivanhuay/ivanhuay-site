@@ -1,6 +1,6 @@
 :root {
-  --background: #fdfff0;
-  --foreground: #171717;
+  --background: #F5F5F5;
+  --foreground: #333333;
   --font-roboto: var(--font-roboto);
   --font-open-sans: var(--font-open-sans);
 }
