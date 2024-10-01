@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ivanhuay-site
 
-## Getting Started
+Welcome to my personal website repository! This project showcases my resume in a developer-friendly, JSON-like format using Next.js and my custom library, nejo-json-viewer.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Display resume data in a readable JSON format
+- Utilizes Next.js for efficient, server-side rendered React applications
+- Implements nejo-json-viewer for enhanced JSON visualization
+- Deployed on Vercel for optimal performance
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/)
+- [nejo-json-viewer](https://github.com/ivanhuay/nejo-json-viewer)
+- [Vercel](https://vercel.com/) (for deployment)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏁 Getting Started
 
-## Learn More
+To run this project locally, follow these steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/ivanhuay-site.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd ivanhuay-site
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Run the development server:
+   ```
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔮 Future Plans
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Add a portfolio section to showcase projects
+- Integrate a dev blog for sharing insights and experiences
 
-## Deploy on Vercel
+## 🔗 Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Coming soon at [https://ivanhuay.com.ar](https://ivanhuay.com.ar)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📚 Related Projects
+
+Check out [nejo-json-viewer](https://github.com/ivanhuay/nejo-json-viewer), my custom library for enhanced JSON visualization, also available on [npm](https://www.npmjs.com/package/nejo-json-viewer).
+
+## 👨‍💻 About Me
+
+I'm a developer passionate about creating efficient and visually appealing solutions. This project combines my love for clean code and innovative presentation of information.
+
+## 📄 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+Feel free to star ⭐ this repository if you find it interesting!
