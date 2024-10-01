@@ -6,10 +6,10 @@ const Resume = {
         phone: '+5491124599726',
         email: 'ivan@gmail.com',
         github: 'https://github.com/ivanhuay',
-        address: 'Constitucion 858, Merlo, BsAs, Argentina',
+        address: 'Merlo, BsAs, Argentina',
     },
     profile:
-        "I'm a frontend specialist with over a decade of full-stack experience, focusing on custom web solutions using React and Next.js, alongside expertise in Angular and Vue. I create unique, meticulously designed interfaces using SCSS, avoiding pre-built frameworks for a tailored user experience. My projects include 3D environments with interactive elements. I'm also skilled in AWS administration, CI/CD, headless CMS integrations (WordPress, Contentful, Strapi), and integrating AI APIs like ChatGPT and Llama 2. My expertise spans server management to crafting captivating UIs, delivering technically robust and visually engaging solutions.",
+        "I'm a frontend specialist with over a decade of full-stack experience, focusing on custom web solutions using React and Next.js. I create custom designed interfaces using SCSS, avoiding pre-built frameworks for a tailored user experience. My expertise extends to AWS administration, CI/CD, and headless CMS integrations (WordPress, Contentful, Strapi). I'm also skilled in integrating AI APIs like ChatGPT and Llama 2. Some of my projects include 3D environments with interactive elements using Three.js.",
     skills: ['Frontend specialist', 'Backend with nodejs or php', 'Linux enthusiast', 'Musician'],
     languages: ['JS', 'PHP', 'Python'],
     education: [
