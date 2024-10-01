@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 ## 🔗 Live Demo
 
-Coming soon at [https://ivanhuay.com.ar](https://ivanhuay.com.ar)
+Coming soon at [https://ivanhuay.ar](https://ivanhuay.ar)
 
 ## 📚 Related Projects
 
