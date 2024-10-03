@@ -20,6 +20,11 @@
     border-radius: 5px;
     width: 100%;
     overflow-x: auto;
+    position: relative;
+}
+.madeWith {
+   text-align: left;
+   align-self: start;
 }
 .jsonViewer {
     --font-family: var(--font-open-sans) !important;
@@ -50,9 +55,7 @@
 
     a {
         font-family: var(--font-roboto);
-        &:hover {
-            text-decoration: underline;
-        }
+        color: var(--color-foreground);
         svg {
             height: 32px;
             width: 32px;

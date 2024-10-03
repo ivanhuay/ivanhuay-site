@@ -22,6 +22,10 @@ export default function Home() {
                 <div className={styles.resume}>
                     <Nejo jsonData={Resume} className={styles.jsonViewer} />
                 </div>
+                <div className={styles.madeWith}>
+                    Made with{' '}
+                    <a href="https://www.npmjs.org/package/nejo-json-viewer">nejo-json-viewer</a>.
+                </div>
             </main>
         </div>
     );
