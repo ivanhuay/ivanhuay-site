@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "nejo-json-viewer": "^1.4.0",
+    "nejo-json-viewer": "^1.5.0",
     "next": "14.2.13",
     "react": "^18",
     "react-dom": "^18",
