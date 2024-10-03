@@ -12,7 +12,7 @@ export default function Home() {
                     HELLO!
                 </a>
                 <div className={styles.right}>
-                    <a href="/files/resume-2024.pdf">PDF Resume</a>
+                    <a href="/files/resume-2024-v2.pdf">PDF Resume</a>
                     <a href="https://github.com/ivanhuay">Linkedin</a>
                     <a href="https://www.linkedin.com/in/ivanhuay/">Github</a>
                 </div>
