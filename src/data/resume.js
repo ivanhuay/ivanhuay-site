@@ -73,6 +73,28 @@ const Resume = {
             technology_stack: ['Linux', 'PHP', 'Nodejs', 'ccs/scss', 'Angular', 'React'],
         },
     ],
+    portfolio: [
+        {
+            name: 'nejo-json-viewer',
+            description:
+                "Nejo is a React component that renders JSON objects in a pretty and customizable way, perfect for enhancing your application's data visualization",
+            github_repo: 'https://github.com/ivanhuay/nejo-json-viewer',
+            npm: 'https://www.npmjs.com/package/nejo-json-viewer',
+        },
+        {
+            name: 'threejs-animation-example',
+            description:
+                'This project demonstrates a 3D visualization using Three.js, featuring a dynamic, animated landscape rendered with WebGL.',
+            github_repo: 'https://github.com/ivanhuay/threejs-animation-example',
+            demo: 'https://ivanhuay.github.io/threejs-animation-example/',
+        },
+        {
+            name: 'ivanhuay.ar',
+            description:
+                'Welcome to my personal website repository! This project showcases my resume in a developer-friendly, JSON-like format using Next.js and my custom library, nejo-json-viewer.',
+            github: 'https://github.com/ivanhuay/ivanhuay-site',
+        },
+    ],
 };
 
 export default Resume;
